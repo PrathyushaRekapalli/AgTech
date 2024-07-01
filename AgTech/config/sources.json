@@ -1,0 +1,6 @@
+{
+    "gdp_data_source": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)",
+    "interest_rate_data_source": "https://en.wikipedia.org/wiki/List_of_sovereign_states_by_central_bank_interest_rates",
+    "crop_production_data_source": "https://databank.worldbank.org/source/world-development-indicators/Series/AG.PRD.CROP.XD"
+  }
+  

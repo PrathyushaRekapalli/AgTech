@@ -1,0 +1,13 @@
+Data Preprocessing and Integration
+
+This document provides additional insights into the preprocessing steps and integration of data sources:
+
+GDP Data: Discusses how GDP estimates are fetched and processed, including handling of annotations and data cleaning.
+Interest Rate Data: Details preprocessing steps for central bank interest rates, addressing data formatting and conversion.
+Crop Production Index: Describes methods for extracting and formatting crop production index data from HTML tables.
+
+Algorithms and Techniques Used:
+Web Scraping: BeautifulSoup for parsing HTML content.
+Data Cleaning: Regular expressions (re) for removing annotations and pandas for data manipulation.
+Data Integration: Merging data from multiple sources based on common attributes like country names.
+For further details, refer to the scripts and generated CSV files in the repository.
